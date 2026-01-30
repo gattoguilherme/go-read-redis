@@ -1,1 +1,1 @@
-docker compose logs -f read-redis
+docker compose logs -f go-read-redis
